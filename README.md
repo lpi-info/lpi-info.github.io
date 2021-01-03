@@ -1,2 +1,2 @@
-# lpi-ua.github.io
-lpi-ua.github.io test
+# lpi-info
+lpi-info.github.io test
